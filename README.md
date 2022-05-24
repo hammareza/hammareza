@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hammareza
-- 👀 I’m interested in integrating data in sustainable energy innovation suing machine learning
+- 👀 I’m interested in integrating data in sustainable energy innovation using machine learning
 - 🌱 I’m currently learning machine learning, and learning about data engineering, data analytics, and data science
 - 💞️ I’m looking to collaborate on sustainable energy innovation
 - 📫 Feel free to discuss and reach me through my email hammaspace@gmail.com
